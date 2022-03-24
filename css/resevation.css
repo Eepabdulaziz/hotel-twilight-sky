@@ -1,0 +1,34 @@
+.probootstrap-block-image-text .text h3 a:hover {
+	color: cornflowerblue !important;
+}
+
+.link-with-icon:hover {
+	color: cornflowerblue ;
+}
+
+.probootstrap-blog-list li a .probootstrap-text h4:hover {
+	color: cornflowerblue ;
+}
+
+.a i:hover {
+color: cornflowerblue ;
+}
+
+.icon-twitter {
+	color: cornflowerblue ;
+}
+
+.icon-facebook  {
+	color: cornflowerblue ;
+
+}
+
+.icon-instagram2 {
+	color: cornflowerblue ;
+}
+
+.link-with-icon, .probootstrap-blog-list li a:hover h4, .probootstrap-news-list li a:hover h4, .probootstrap-product-list li a:hover h4{
+	color: cornflowerblue ;
+}
+a{
+	color: cornflowerblue ;
